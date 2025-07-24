@@ -1,0 +1,250 @@
+row_id,SUBJECT_ID,hadm_id,chartdate,charttime,storetime,category,description,cgid,iserror,TEXT
+1,10006,150001,2165-07-15,2165-07-15 14:30:00,2165-07-15 15:45:00,Discharge summary,Report,1001,,"""ADMISSION DIAGNOSIS: Acute myocardial infarction
+
+DISCHARGE DIAGNOSIS: ST-elevation myocardial infarction, status post percutaneous coronary intervention with drug-eluting stent to RCA
+
+HISTORY OF PRESENT ILLNESS: 
+The patient is a 71-year-old male with a history of hypertension, diabetes mellitus type 2, and hyperlipidemia who presented to the emergency department with acute onset chest pain. The pain was described as crushing, substernal, radiating to the left arm, associated with diaphoresis and nausea. Pain began approximately 2 hours prior to arrival while the patient was at rest.
+
+PHYSICAL EXAMINATION:
+Vital signs: BP 145/92, HR 78, RR 18, O2 sat 96% on room air, afebrile
+General: Male in moderate distress due to chest pain
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+Pulmonary: Clear to auscultation bilaterally
+Extremities: No peripheral edema
+
+DIAGNOSTIC STUDIES:
+EKG showed ST elevations in leads II, III, aVF consistent with inferior STEMI
+Troponin I peaked at 45.2 ng/mL (normal <0.04)
+Echocardiogram showed mild inferior wall hypokinesis, EF 50%
+
+HOSPITAL COURSE:
+Patient was taken emergently to cardiac catheterization laboratory where coronary angiography revealed 100% occlusion of the right coronary artery. Successful percutaneous coronary intervention was performed with placement of drug-eluting stent. Patient tolerated procedure well without complications.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 81mg daily
+2. Clopidogrel 75mg daily 
+3. Atorvastatin 80mg daily
+4. Lisinopril 10mg daily
+5. Metoprolol XL 50mg daily
+
+DISCHARGE INSTRUCTIONS:
+Patient advised to follow up with cardiology in 1-2 weeks. Return to ED for any chest pain, shortness of breath, or other concerning symptoms. Cardiac rehabilitation referral provided."""
+2,10011,150002,2126-08-20,2126-08-20 08:15:00,2126-08-20 09:30:00,Physician,Physician Note,1002,,"""SUBJECTIVE:
+Patient is a 36-year-old female with history of asthma who presents with worsening shortness of breath and wheezing over the past 3 days. Reports increased use of albuterol inhaler with minimal relief. Denies fever, chest pain, or recent illness. No known triggers identified.
+
+OBJECTIVE:
+Vital signs: BP 118/72, HR 95, RR 24, O2 sat 92% on room air, T 98.4F
+General: Female in mild respiratory distress
+HEENT: No acute distress
+Cardiovascular: Tachycardic, regular rhythm, no murmurs
+Pulmonary: Expiratory wheeze throughout bilateral lung fields, prolonged expiratory phase
+Extremities: No cyanosis or edema
+
+Peak flow: 200 L/min (baseline 400 L/min)
+
+ASSESSMENT AND PLAN:
+Acute asthma exacerbation
+- Nebulized albuterol 2.5mg q4h
+- Prednisolone 40mg daily x 5 days
+- Continue home medications
+- Monitor O2 saturation and peak flow
+- Chest X-ray to rule out pneumonia
+
+Patient educated on proper inhaler technique. Advised to follow up with primary care in 1 week if symptoms persist."""
+3,10013,150003,2125-09-28,2125-09-28 16:45:00,2125-09-28 17:20:00,Nursing,Nursing Progress Note,2001,,"""0700-1900 Nursing Note:
+
+Patient is an 87-year-old female admitted with acute kidney injury secondary to dehydration.
+
+ASSESSMENT:
+Neurological: Alert and oriented x3, pleasant and cooperative
+Cardiovascular: Regular rate and rhythm, no edema
+Respiratory: Lungs clear, no distress
+GI/GU: Abdomen soft, bowel sounds present. Foley catheter in place with adequate urine output 50-75ml/hr, urine clear yellow
+Skin: Intact, no breakdown noted
+
+INTERVENTIONS:
+- IV fluid resuscitation continued per physician orders
+- Daily weights obtained - current weight 68kg (admission 65kg)
+- Intake and output monitored closely
+- Labs drawn this AM: Creatinine improved from 3.2 to 2.1
+- Assisted with activities of daily living
+- Fall precautions maintained
+
+PATIENT RESPONSE:
+Patient reports feeling better today. Ambulating to bathroom with minimal assistance. Appetite improved, tolerating regular diet well. No complaints of nausea or dizziness.
+
+PLAN:
+Continue current management. Monitor renal function and fluid status. Encourage oral fluid intake as tolerated."""
+4,10017,150004,2152-08-30,2152-08-30 11:20:00,2152-08-30 12:10:00,Progress Note,Progress Note,1003,,"""Progress Note - Day 3
+
+CHIEF COMPLAINT: Pneumonia
+
+HISTORY: 
+77-year-old female with COPD admitted with community-acquired pneumonia. Currently on day 3 of ceftriaxone and azithromycin.
+
+PHYSICAL EXAM:
+Vitals: BP 132/78, HR 82, RR 20, O2 sat 94% on 2L NC, T 99.1F
+General: Appears comfortable, no acute distress
+Pulmonary: Decreased breath sounds at right base, scattered rhonchi
+Cardiovascular: Regular rate and rhythm
+Abdomen: Soft, non-tender
+
+LABS:
+WBC 12.5 (down from 18.2 on admission)
+Procalcitonin 0.8 (improving)
+
+IMAGING:
+Chest X-ray shows improving right lower lobe infiltrate
+
+ASSESSMENT/PLAN:
+Community-acquired pneumonia, improving
+- Continue current antibiotic regimen
+- Wean oxygen as tolerated
+- Chest physiotherapy
+- Incentive spirometry
+- Plan discharge tomorrow if continues to improve"""
+5,10019,150005,2163-05-10,2163-05-10 13:45:00,2163-05-10 14:15:00,Consult,Cardiology Consult,1004,,"""CARDIOLOGY CONSULTATION
+
+REASON FOR CONSULTATION: Atrial fibrillation with rapid ventricular response
+
+HISTORY:
+49-year-old male with no known cardiac history presents with palpitations and dyspnea on exertion for 2 days. Patient reports irregular heartbeat and fatigue. Denies chest pain or syncope.
+
+EXAMINATION:
+Vital signs: BP 110/70, HR 145 irregular, RR 22, O2 sat 98%
+Cardiovascular: Irregularly irregular rhythm, no murmurs or gallops
+JVD not elevated
+
+DIAGNOSTIC STUDIES:
+EKG: Atrial fibrillation with ventricular rate 140-150
+Echo: Normal LV function, EF 55%, no structural abnormalities
+TSH, electrolytes within normal limits
+
+ASSESSMENT:
+New onset atrial fibrillation with rapid ventricular response
+
+RECOMMENDATIONS:
+1. Rate control with metoprolol 25mg BID
+2. Anticoagulation with apixaban 5mg BID
+3. Monitor on telemetry
+4. Consider cardioversion if symptoms persist
+5. Outpatient cardiology follow-up in 2-3 weeks
+6. Holter monitor as outpatient to assess burden
+
+Thank you for the consultation.
+
+Dr. Smith, Cardiology"""
+6,10026,150006,2195-11-20,2195-11-20 09:30:00,2195-11-20 10:00:00,Radiology,Radiology Report,3001,,"""EXAMINATION: CT Chest without contrast
+
+CLINICAL HISTORY: Cough and shortness of breath
+
+TECHNIQUE: Axial CT images of the chest were obtained without IV contrast.
+
+FINDINGS:
+LUNGS: Multiple bilateral pulmonary nodules are present, the largest measuring 2.3 cm in the right upper lobe. No pleural effusion or pneumothorax.
+
+MEDIASTINUM: Mediastinal lymphadenopathy is present with enlarged paratracheal and hilar lymph nodes.
+
+HEART: Heart size is normal.
+
+IMPRESSION:
+1. Multiple bilateral pulmonary nodules with mediastinal lymphadenopathy, concerning for malignancy vs metastatic disease
+2. Recommend tissue sampling for definitive diagnosis
+3. Consider PET scan for staging if malignancy confirmed
+
+Results discussed with Dr. Johnson at time of interpretation."""
+7,10027,150007,2190-09-10,2190-09-10 07:30:00,2190-09-10 08:45:00,Discharge summary,Discharge Summary,1005,,"""ADMISSION DATE: 2190-09-05
+DISCHARGE DATE: 2190-09-10
+
+PRINCIPAL DIAGNOSIS: Acute cholecystitis
+
+SECONDARY DIAGNOSES:
+1. Cholelithiasis
+2. Diabetes mellitus type 2
+3. Hypertension
+
+PROCEDURES PERFORMED:
+Laparoscopic cholecystectomy
+
+HISTORY OF PRESENT ILLNESS:
+82-year-old female presented with 2-day history of right upper quadrant pain, nausea, and vomiting. Pain was constant, severe, and radiated to the right shoulder.
+
+HOSPITAL COURSE:
+Patient underwent uncomplicated laparoscopic cholecystectomy on hospital day 2. Post-operative course was unremarkable. Patient tolerated diet well and ambulated without difficulty. Pain controlled with oral analgesics.
+
+DISCHARGE CONDITION: Stable, afebrile, tolerating regular diet
+
+DISCHARGE MEDICATIONS:
+1. Acetaminophen 650mg q6h PRN pain
+2. Metformin 500mg BID (home medication)
+3. Lisinopril 5mg daily (home medication)
+
+FOLLOW-UP:
+Surgical follow-up in 2 weeks
+Primary care follow-up in 1 week"""
+8,10029,150008,2140-09-15,2140-09-15 14:20:00,2140-09-15 15:30:00,ECG,ECG Report,4001,,"""ELECTROCARDIOGRAM REPORT
+
+CLINICAL DATA: Chest pain
+
+INTERPRETATION:
+Rate: 68 bpm
+Rhythm: Normal sinus rhythm
+Axis: Normal axis
+Intervals: PR 160ms, QRS 90ms, QT 420ms
+
+ST-T wave changes: No acute ST elevation or depression. T waves are normal.
+Q waves: No pathological Q waves present.
+
+IMPRESSION: Normal electrocardiogram
+
+No evidence of acute ischemia or infarction.
+
+Electronically signed by Dr. Williams, Cardiology"""
+9,10032,150009,2138-05-18,2138-05-18 10:15:00,2138-05-18 11:00:00,Physician,Emergency Department Note,1006,,"""CHIEF COMPLAINT: Fall
+
+HISTORY OF PRESENT ILLNESS:
+88-year-old male brought to ED after mechanical fall at home. Patient reports tripping over carpet and falling onto right hip. Denies loss of consciousness, chest pain, or shortness of breath. No head strike reported.
+
+PHYSICAL EXAMINATION:
+Vital signs: BP 140/85, HR 75, RR 18, O2 sat 97%, afebrile
+General: Elderly male in mild distress due to pain
+HEENT: No trauma, pupils equal and reactive
+Cardiovascular: Regular rate and rhythm
+Extremities: Right hip pain with movement, shortened and externally rotated right leg
+
+IMAGING:
+X-ray pelvis: Displaced femoral neck fracture
+
+ASSESSMENT AND PLAN:
+Right femoral neck fracture
+- Orthopedic surgery consultation
+- NPO for surgery
+- IV pain management
+- DVT prophylaxis
+
+Discussed with orthopedic team, plan for hemiarthroplasty tomorrow."""
+10,10033,150010,2133-09-05,2133-09-05 12:45:00,2133-09-05 13:20:00,Nursing,ICU Nursing Note,2002,,"""1200-1800 ICU NURSING NOTE
+
+Patient: 82-year-old female, post-operative day 1 following emergency bowel resection for perforated diverticulitis.
+
+NEUROLOGICAL: Sedated on propofol, responds to voice and tactile stimuli. Pupils equal and reactive.
+
+CARDIOVASCULAR: HR 85-95, BP 115-125/65-75. Central line in place, CVP 8-12. No arrhythmias noted.
+
+RESPIRATORY: Intubated and mechanically ventilated. Settings: AC mode, TV 450, RR 14, PEEP 5, FiO2 40%. ABG: pH 7.38, CO2 42, O2 95. Lungs clear bilaterally.
+
+GI: NGT to low suction, minimal output. Abdomen distended with surgical dressing clean and dry. No bowel sounds.
+
+GU: Foley catheter with adequate urine output 40-60ml/hr, clear yellow urine.
+
+LABS: Lactate 2.1 (improving from 4.2), WBC 14.5
+
+INTERVENTIONS:
+- Mechanical ventilation per respiratory therapy
+- Sedation weaned per protocol
+- Antibiotics continued (piperacillin-tazobactam)
+- DVT prophylaxis
+- Turn q2h, pressure ulcer prevention
+
+PLAN: Continue current management, wean sedation as tolerated, monitor for signs of improvement."""
